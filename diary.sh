@@ -250,9 +250,8 @@ IF_ENDED="$(echo $DIR | $GREP '/$')"
 if [ "$IF_ENDED" == "" ]	# Add a forward slash to the end
 then
 	DIR="$DIR/"
-fi 
+fi
 
-echo "$DIR"
 
 #### Main Program ####
 
