@@ -38,6 +38,7 @@ You should now be able to run `diary` anywhere.
 
 ## Command line options
 
+```
 diary [options]
 
 	Options:
@@ -48,3 +49,4 @@ diary [options]
 	Examples:
 			diary
 			diary -p /usr/local/diary -e /usr/bin/vi
+```
