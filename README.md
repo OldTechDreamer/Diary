@@ -2,7 +2,7 @@
 
 This script makes it easy to write a diary in the Terminal and view / edit past entried.
 This includes quick links to Last Week, Last Month and Last Year.
-All saved to text files in your home or other specified place.
+All saves in text files in your home or other specified place.
 
 ## Example:
 
@@ -28,16 +28,16 @@ Diary entry written!
 ## Install
 
 1. Download the diary.sh script
-..1. git clone https://github.com/OldTechDreamer/Diary
-..2. cd Diary
+⋅⋅1. git clone https://github.com/OldTechDreamer/Diary
+⋅⋅1. cd Diary
 2. Make the script executable
-..*. chmod +x diary.sh
+⋅⋅* chmod +x diary.sh
 3. Copy it to bin
-..* sudo cp diary.sh /usr/bin/diary
+⋅⋅* sudo cp diary.sh /usr/bin/diary
 
 You should now be able to run `diary` anywhere.
 
-**Please note:** The default location for diary entries are in: **/home/[Your User]/Diary/**
+**Please note:** The default location for diary entries are in: **/home/[Your User]/Diary/
 
 ## Command line options
 
