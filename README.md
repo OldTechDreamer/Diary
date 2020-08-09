@@ -34,7 +34,7 @@ Diary entry written!
 
 You should now be able to run `diary` anywhere.
 
-**Please note:** The default location for diary entries are in: **/home/[Your User]/Diary/
+**Please note:** The default location for diary entries are in: **/home/[Your User]/Diary/**
 
 ## Command line options
 
