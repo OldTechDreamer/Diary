@@ -27,13 +27,10 @@ Diary entry written!
 
 ## Install
 
-1. Download the diary.sh script
-⋅⋅1. git clone https://github.com/OldTechDreamer/Diary
-⋅⋅1. cd Diary
-2. Make the script executable
-⋅⋅* chmod +x diary.sh
-3. Copy it to bin
-⋅⋅* sudo cp diary.sh /usr/bin/diary
+1. Download the diary.sh script: `git clone https://github.com/OldTechDreamer/Diary`
+3. `cd Diary1`
+4. Make it executable: `chmod +x diary.sh1`
+5. Copy to bin: `sudo cp diary.sh /usr/bin/diary`
 
 You should now be able to run `diary` anywhere.
 
